@@ -1,0 +1,21 @@
+{
+  "name": "banisher-bot",
+  "version": "1.0.0",
+  "description": "A simple bot for the Banishers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "eslint": "^5.12.1",
+    "ffmpeg": "0.0.4",
+    "node-fetch": "^2.3.0",
+    "node-opus": "^0.3.1",
+    "request": "^2.88.0",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^0.29.1"
+  }
+}
